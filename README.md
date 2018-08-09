@@ -1,1 +1,1 @@
-# Devnagari-Recognition-and-docmentation
+This project will scan the image containing devnagari script and extract data and document it in pdf/txt file.
